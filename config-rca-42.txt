@@ -1,0 +1,8 @@
+hdmi_group=1
+hdmi_mode=4
+arm_freq=800
+force_turbo=1
+disable_overscan=0
+gpu_mem=128
+start_file=start_x.elf
+fixup_file=fixup_x.dat
